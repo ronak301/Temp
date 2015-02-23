@@ -24,7 +24,7 @@
 }
 
 - (void)dummyMethod {
-    
+    int abc =  0 ;
 }
 
 
