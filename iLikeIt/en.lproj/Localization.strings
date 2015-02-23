@@ -1,0 +1,11 @@
+/* 
+  Localization.strings
+  iLikeIt
+
+  Created by Ronak Kothari on 23/02/15.
+  Copyright (c) 2015 Raywenderlich. All rights reserved.
+*/
+
+"You like?" = "You likee?";
+"Yesterday you sold %@ apps" = "Yesterday you sold %@ apps";
+
