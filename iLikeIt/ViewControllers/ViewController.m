@@ -27,6 +27,12 @@
     
 }
 
+
+- (void)dummyMethodTwo {
+    int x = 0;
+    
+}
+
 - (IBAction)youLikeButtonPressed:(id)sender {
     if (_salesCountLabel.hidden == YES) {
         _salesCountLabel.hidden = NO;
