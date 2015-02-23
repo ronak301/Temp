@@ -23,6 +23,10 @@
     [_likeButton setTitle:NSLocalizedString(@"You like?", nil) forState:UIControlStateNormal];
 }
 
+- (void)dummyMethod {
+    
+}
+
 - (IBAction)youLikeButtonPressed:(id)sender {
     if (_salesCountLabel.hidden == YES) {
         _salesCountLabel.hidden = NO;
