@@ -29,7 +29,7 @@
 
 
 - (void)dummyMethodTwo {
-    int x = 0;
+
     
 }
 
